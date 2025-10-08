@@ -8,7 +8,6 @@
     "school": "AMORAGORI GIRLS PRIMARY SCHOOL",
     "desig": "AT",
     "hoi": "Yes",
-    "phone": "8768559897",
     "dataYear": 2025
   },
   {
@@ -19,12 +18,10 @@
     "rank": 2,
     "dataYear": 2025,
     "udise": "19160210302",
-    "phone": "9635091988",
     "tname": "MOUMITA MAJI",
     "desig": "AT"
   },
   {
-    "phone": "9775130331",
     "desig": "AT",
     "school": "BANCHARAM ROY PRIMARY SCHOOL",
     "id": "teachers103",
@@ -41,7 +38,6 @@
     "school": "BANCHARAM ROY PRIMARY SCHOOL",
     "dataYear": 2025,
     "id": "teachers104",
-    "phone": "8609972541",
     "tname": "AVISHEK CHOWDHURY",
     "gp": "AMORAGORI",
     "rank": 2,
@@ -55,13 +51,11 @@
     "desig": "HT",
     "hoi": "Yes",
     "school": "BAR GAZIPUR PRIMARY SCHOOL",
-    "phone": "9732748592",
     "gp": "GAZIPUR",
     "dataYear": 2025
   },
   {
     "udise": "19160214202",
-    "phone": "7908426565",
     "id": "teachers106",
     "dataYear": 2025,
     "tname": "TAPAS KARMAKAR",
@@ -76,7 +70,6 @@
     "rank": 1,
     "dataYear": 2025,
     "hoi": "Yes",
-    "phone": "9775144635",
     "tname": "BIKASH CHANDRA DALUI",
     "id": "teachers107",
     "udise": "19160213501",
@@ -89,7 +82,6 @@
     "tname": "SUPARNA GHOSH",
     "gp": "THALIA",
     "dataYear": 2025,
-    "phone": "7076482437",
     "school": "BER DHAIPUR PRIMARY SCHOOL",
     "id": "teachers108",
     "udise": "19160213501",
@@ -101,7 +93,6 @@
     "hoi": "No",
     "gp": "THALIA",
     "id": "teachers109",
-    "phone": "7797426959",
     "tname": "SOHEL REJA",
     "desig": "AT",
     "dataYear": 2025,
@@ -110,7 +101,6 @@
   {
     "desig": "AT",
     "school": "BER DHAIPUR PRIMARY SCHOOL",
-    "phone": "8343861998",
     "tname": "TARUN GHARA",
     "hoi": "No",
     "id": "teachers110",
@@ -128,12 +118,10 @@
     "id": "teachers111",
     "udise": "19160214902",
     "desig": "HT",
-    "gp": "NOWPARA",
-    "phone": "9749184584"
+    "gp": "NOWPARA"
   },
   {
     "desig": "AT",
-    "phone": "9064206918",
     "gp": "NOWPARA",
     "tname": "RAJU KOLEY",
     "rank": 2,
@@ -144,7 +132,6 @@
     "dataYear": 2025
   },
   {
-    "phone": "9734328255",
     "gp": "NOWPARA",
     "id": "teachers388-61383f93",
     "school": "BETAI PC PRIMARY SCHOOL",
@@ -162,7 +149,6 @@
     "rank": 1,
     "udise": "19160212801",
     "tname": "NILADRI DHALI",
-    "phone": "9734882007",
     "desig": "AT",
     "hoi": "Yes",
     "dataYear": 2025
@@ -175,7 +161,6 @@
     "school": "BHATEGHORI PRIMARY SCHOOL",
     "id": "teachers115",
     "gp": "THALIA",
-    "phone": "7044470321",
     "hoi": "No",
     "dataYear": 2025
   },
@@ -184,7 +169,6 @@
     "rank": 3,
     "school": "BHATEGHORI PRIMARY SCHOOL",
     "hoi": "No",
-    "phone": "9999999999",
     "tname": "NITI PAL",
     "dataYear": 2025,
     "gp": "THALIA",
@@ -196,7 +180,6 @@
     "tname": "SIPRA MAJUMDER",
     "udise": "19160212802",
     "desig": "HT",
-    "phone": "9932007066",
     "school": "BHATEGHORI SIBTALA PRIMARY SCHOOL",
     "hoi": "Yes",
     "rank": 1,
@@ -207,7 +190,6 @@
     "udise": "19160212802",
     "desig": "AT",
     "dataYear": 2025,
-    "phone": "9933691466",
     "tname": "PARTHA NANDI",
     "rank": 2,
     "school": "BHATEGHORI SIBTALA PRIMARY SCHOOL",
@@ -217,7 +199,6 @@
   },
   {
     "id": "teachers118",
-    "phone": "7585000174",
     "school": "BHATEGHORI SIBTALA PRIMARY SCHOOL",
     "hoi": "No",
     "udise": "19160212802",
@@ -234,7 +215,6 @@
     "id": "teachers121",
     "rank": 1,
     "hoi": "Yes",
-    "phone": "8617798881",
     "udise": "19160209001",
     "dataYear": 2025,
     "desig": "AT"
@@ -245,7 +225,6 @@
     "id": "teachers122",
     "school": "BINOLA KRISHNABATI PRIMARY SCHOOL",
     "gp": "BKBATI",
-    "phone": "9933124350",
     "desig": "AT",
     "rank": 2,
     "tname": "SOUMENDU PRAMANIK",
@@ -256,7 +235,6 @@
     "hoi": "No",
     "gp": "BKBATI",
     "desig": "AT",
-    "phone": "9564443869",
     "dataYear": 2025,
     "id": "teachers123",
     "tname": "AMIT POREY",
@@ -271,7 +249,6 @@
     "school": "BINOLA KRISHNABATI PRIMARY SCHOOL",
     "tname": "SAKINA KHATOON",
     "gp": "BKBATI",
-    "phone": "9933621612",
     "rank": 4,
     "udise": "19160209001"
   },
@@ -284,13 +261,11 @@
     "rank": 1,
     "hoi": "Yes",
     "tname": "ASHIS KUMAR PARUI",
-    "phone": "8768120850",
     "gp": "AMORAGORI"
   },
   {
     "tname": "SONALI ADHIKARY",
     "udise": "19160209603",
-    "phone": "8597090806",
     "hoi": "No",
     "id": "teachers125",
     "school": "BOALIA B PARA PRIMARY SCHOOL",
@@ -303,7 +278,6 @@
     "gp": "AMORAGORI",
     "dataYear": 2025,
     "id": "teachers126",
-    "phone": "9564103231",
     "tname": "KAUSHIK DAS",
     "udise": "19160209603",
     "rank": 3,
@@ -319,7 +293,6 @@
     "tname": "SHYAMAL HAIT",
     "hoi": "Yes",
     "udise": "19160209604",
-    "phone": "9733512944",
     "rank": 1,
     "gp": "AMORAGORI"
   },
@@ -330,7 +303,6 @@
     "tname": "NETAI DAS",
     "udise": "19160209604",
     "dataYear": 2025,
-    "phone": "9332517149",
     "desig": "AT",
     "hoi": "No",
     "rank": 2
@@ -343,12 +315,10 @@
     "desig": "HT",
     "dataYear": 2025,
     "udise": "19160210507",
-    "phone": "9932030223",
     "id": "teachers129",
     "gp": "AMORAGORI"
   },
   {
-    "phone": "8016069596",
     "rank": 2,
     "school": "CHAKJANARDAN PRIMARY SCHOOL",
     "hoi": "No",
@@ -368,7 +338,6 @@
     "hoi": "Yes",
     "rank": 1,
     "udise": "19160209804",
-    "phone": "9732953716",
     "gp": "AMORAGORI"
   },
   {
@@ -379,7 +348,6 @@
     "id": "teachers132",
     "udise": "19160209804",
     "dataYear": 2025,
-    "phone": "9647352920",
     "hoi": "No",
     "rank": 2
   },
@@ -392,11 +360,9 @@
     "tname": "SUBRATA BISWAS ",
     "gp": "AMORAGORI",
     "hoi": "No",
-    "rank": 3,
-    "phone": "9647844334"
+    "rank": 3
   },
   {
-    "phone": "9735656900",
     "tname": "ARUP SAMANTA",
     "id": "teachers134",
     "udise": "19160209804",
@@ -409,7 +375,6 @@
   },
   {
     "gp": "AMORAGORI",
-    "phone": "8001883874",
     "hoi": "Yes",
     "dataYear": 2025,
     "rank": 1,
@@ -424,7 +389,6 @@
     "gp": "AMORAGORI",
     "tname": "NILANJANA DEYASHI PAL",
     "hoi": "No",
-    "phone": "9836676344",
     "school": "CHAKSALIKA RAJBANSHIPARA PRIMARY SCHOOL",
     "id": "teachers136",
     "desig": "AT",
@@ -439,7 +403,6 @@
     "desig": "AT",
     "id": "teachers389-da7ce61c",
     "dataYear": 2025,
-    "phone": "7797672279",
     "gp": "AMORAGORI",
     "rank": 3
   },
@@ -448,7 +411,6 @@
     "hoi": "Yes",
     "gp": "NOWPARA",
     "udise": "19160215201",
-    "phone": "7602276243",
     "rank": 1,
     "dataYear": 2025,
     "tname": "MRITYUNJAY ASH",
@@ -456,7 +418,6 @@
     "id": "teachers137"
   },
   {
-    "phone": "9933611359",
     "rank": 2,
     "school": "CHARANOWPARA PRIMARY SCHOOL",
     "hoi": "No",
@@ -475,12 +436,10 @@
     "school": "CHARANOWPARA PRIMARY SCHOOL",
     "gp": "NOWPARA",
     "hoi": "No",
-    "phone": "9609404474",
     "udise": "19160215201",
     "desig": "AT"
   },
   {
-    "phone": "8001406048",
     "udise": "19160211401",
     "school": "CHINGRAJOLE NARAYANI GIRLS PRIMARY SCHOOL",
     "desig": "HT",
@@ -500,8 +459,7 @@
     "hoi": "No",
     "rank": 2,
     "dataYear": 2025,
-    "id": "teachers140",
-    "phone": "7872494648"
+    "id": "teachers140"
   },
   {
     "id": "teachers141",
@@ -512,11 +470,9 @@
     "rank": 3,
     "hoi": "No",
     "gp": "JHIKIRA",
-    "phone": "6297248049",
     "tname": "ADAITYA BAR"
   },
   {
-    "phone": "9733423575",
     "udise": "19160211502",
     "school": "CHINGRAJOLE VIVEKANANDA PRIMARY SCHOOL",
     "desig": "HT",
@@ -536,8 +492,7 @@
     "desig": "AT",
     "rank": 2,
     "id": "teachers143",
-    "dataYear": 2025,
-    "phone": "7407980531"
+    "dataYear": 2025
   },
   {
     "desig": "AT",
@@ -548,14 +503,12 @@
     "tname": "BIBEKASISH HAJRA",
     "school": "CHINGRAJOLE VIVEKANANDA PRIMARY SCHOOL",
     "rank": 3,
-    "phone": "9593074162",
     "id": "teachers144"
   },
   {
     "desig": "AT",
     "school": "CHINGRAJOLE VIVEKANANDA PRIMARY SCHOOL",
     "gp": "JHIKIRA",
-    "phone": "8609236530",
     "hoi": "No",
     "rank": 4,
     "dataYear": 2025,
@@ -566,7 +519,6 @@
   {
     "tname": "MANOJ KHOTEL",
     "gp": "JOYPUR",
-    "phone": "9477075869",
     "udise": "19160212601",
     "hoi": "Yes",
     "desig": "HT",
@@ -580,7 +532,6 @@
     "hoi": "No",
     "tname": "PRADIP SADHUKHAN",
     "school": "DAKSHIN JOYPUR JR BASIC SCHOOL",
-    "phone": "9883532955",
     "rank": 2,
     "udise": "19160212601",
     "id": "teachers147",
@@ -592,7 +543,6 @@
     "desig": "AT",
     "hoi": "No",
     "id": "teachers148",
-    "phone": "8145812040",
     "rank": 3,
     "dataYear": 2025,
     "tname": "TRIDIB SINGH",
@@ -605,7 +555,6 @@
     "school": "DHAIPUR PRIMARY SCHOOL",
     "gp": "THALIA",
     "id": "teachers149",
-    "phone": "7585970649",
     "udise": "19160213401",
     "hoi": "Yes",
     "rank": 1,
@@ -616,7 +565,6 @@
     "hoi": "No",
     "gp": "THALIA",
     "desig": "AT",
-    "phone": "8101823972",
     "dataYear": 2025,
     "id": "teachers150",
     "tname": "DEBASISH MAZUMDER",
@@ -631,7 +579,6 @@
     "id": "teachers151",
     "rank": 3,
     "tname": "SAYAN DAS",
-    "phone": "8145349897",
     "hoi": "No",
     "gp": "THALIA"
   },
@@ -644,14 +591,12 @@
     "hoi": "No",
     "udise": "19160213401",
     "gp": "THALIA",
-    "dataYear": 2025,
-    "phone": "9609338002"
+    "dataYear": 2025
   },
   {
     "tname": "SUMAN SAMANTA",
     "desig": "AT",
     "udise": "19160213401",
-    "phone": "8001406446",
     "dataYear": 2025,
     "rank": 5,
     "id": "teachers153",
@@ -661,7 +606,6 @@
   },
   {
     "hoi": "Yes",
-    "phone": "8609692998",
     "udise": "19160211602",
     "id": "teachers154",
     "tname": "SURAJIT KOLEY",
@@ -673,7 +617,6 @@
   },
   {
     "tname": "RAMESH DALUI",
-    "phone": "8597671457",
     "udise": "19160211602",
     "school": "DURGAPUR JUNIOR BASIC SCHOOL",
     "gp": "JHIKIRA",
@@ -688,7 +631,6 @@
     "rank": 3,
     "hoi": "No",
     "dataYear": 2025,
-    "phone": "7076120301",
     "gp": "JHIKIRA",
     "tname": "LIPI GHOSH",
     "udise": "19160211602",
@@ -704,7 +646,6 @@
     "id": "teachers157",
     "dataYear": 2025,
     "school": "DURGAPUR JUNIOR BASIC SCHOOL",
-    "phone": "9732942192",
     "tname": "PULAK MITRA"
   },
   {
@@ -712,7 +653,6 @@
     "hoi": "Yes",
     "gp": "GAZIPUR",
     "udise": "19160214401",
-    "phone": "8145324141",
     "rank": 1,
     "dataYear": 2025,
     "tname": "SAYAN DE",
@@ -720,7 +660,6 @@
     "id": "teachers158"
   },
   {
-    "phone": "9647192390",
     "id": "teachers159",
     "udise": "19160214401",
     "rank": 2,
@@ -736,7 +675,6 @@
     "rank": 3,
     "hoi": "No",
     "dataYear": 2025,
-    "phone": "9933924215",
     "gp": "GAZIPUR",
     "tname": "PARTHA SARATHI CHANDRA",
     "udise": "19160214401",
@@ -748,7 +686,6 @@
     "hoi": "No",
     "gp": "GAZIPUR",
     "udise": "19160214401",
-    "phone": "8513071850",
     "rank": 4,
     "dataYear": 2025,
     "tname": "SAUMEN MANDAL",
@@ -764,7 +701,6 @@
     "desig": "AT",
     "rank": 5,
     "hoi": "No",
-    "phone": "9874464947",
     "dataYear": 2025
   },
   {
@@ -775,7 +711,6 @@
     "udise": "19160214401",
     "gp": "GAZIPUR",
     "desig": "AT",
-    "phone": "9073778874",
     "tname": "BITHIKA MAJUMDER",
     "id": "teachers398-7bc9c6b0"
   },
@@ -785,14 +720,12 @@
     "dataYear": 2025,
     "rank": 7,
     "school": "GAZIPUR THAKAMOYEE PRIMARY SCHOOL",
-    "phone": "9593414022",
     "id": "teachers163",
     "desig": "AT",
     "hoi": "No",
     "gp": "GAZIPUR"
   },
   {
-    "phone": "9830505518",
     "rank": 1,
     "hoi": "Yes",
     "gp": "AMORAGORI",
@@ -805,7 +738,6 @@
   },
   {
     "hoi": "No",
-    "phone": "8768667872",
     "udise": "19160210506",
     "id": "teachers165",
     "tname": "DALI KHAN",
@@ -817,7 +749,6 @@
   },
   {
     "school": "GHARDUBRA MONIMOHAN PRIMARY SCHOOL",
-    "phone": "9093834727",
     "tname": "BIKASH CHANDRA JANA",
     "dataYear": 2025,
     "desig": "HT",
@@ -831,7 +762,6 @@
     "udise": "19160211301",
     "school": "GHARDUBRA MONIMOHAN PRIMARY SCHOOL",
     "hoi": "No",
-    "phone": "8001247513",
     "desig": "AT",
     "dataYear": 2025,
     "tname": "SUKANTA GUCHAIT",
@@ -843,7 +773,6 @@
     "desig": "AT",
     "school": "GHARDUBRA MONIMOHAN PRIMARY SCHOOL",
     "gp": "JHIKIRA",
-    "phone": "7797663122",
     "hoi": "No",
     "rank": 3,
     "dataYear": 2025,
@@ -859,14 +788,12 @@
     "tname": "UTPAL KUMAR SHEE",
     "dataYear": 2025,
     "desig": "HT",
-    "phone": "9735600134",
     "udise": "19160209501",
     "hoi": "Yes"
   },
   {
     "dataYear": 2025,
     "school": "GHOLEDWIPA PRIMARY SCHOOL",
-    "phone": "9735085082",
     "udise": "19160209501",
     "rank": 2,
     "tname": "SWAPAN PATRA",
@@ -881,7 +808,6 @@
     "gp": "AMORAGORI",
     "udise": "19160209501",
     "school": "GHOLEDWIPA PRIMARY SCHOOL",
-    "phone": "8617840148",
     "id": "teachers390-79bf2ea7",
     "rank": 3,
     "desig": "AT",
@@ -896,7 +822,6 @@
     "tname": "PALASH KUMAR MONDAL",
     "desig": "HT",
     "id": "teachers171",
-    "phone": "9734423274",
     "udise": "19160208901"
   },
   {
@@ -908,8 +833,7 @@
     "school": "HANIDHARA PRIMARY SCHOOL",
     "id": "teachers172",
     "rank": 2,
-    "udise": "19160208901",
-    "phone": "9732939481"
+    "udise": "19160208901"
   },
   {
     "tname": "SUSHANTA BACHAR",
@@ -919,7 +843,6 @@
     "school": "HANIDHARA PRIMARY SCHOOL",
     "dataYear": 2025,
     "hoi": "No",
-    "phone": "7872432692",
     "udise": "19160208901",
     "desig": "AT"
   },
@@ -930,7 +853,6 @@
     "school": "HANIDHARA PRIMARY SCHOOL",
     "hoi": "No",
     "rank": 4,
-    "phone": "9093533757",
     "dataYear": 2025,
     "id": "teachers174",
     "udise": "19160208901"
@@ -942,7 +864,6 @@
     "school": "HANIDHARA PRIMARY SCHOOL",
     "id": "teachers175",
     "gp": "BKBATI",
-    "phone": "9641901734",
     "dataYear": 2025,
     "rank": 5,
     "udise": "19160208901"
@@ -956,7 +877,6 @@
     "rank": 1,
     "tname": "SUBHANKAR GHOSH",
     "hoi": "Yes",
-    "phone": "9564442822",
     "id": "teachers176"
   },
   {
@@ -964,7 +884,6 @@
     "desig": "AT",
     "gp": "JHIKIRA",
     "udise": "19160211501",
-    "phone": "9382419291",
     "rank": 2,
     "dataYear": 2025,
     "tname": "SUMON GOLUI",
@@ -977,7 +896,6 @@
     "gp": "NOWPARA",
     "rank": 1,
     "hoi": "Yes",
-    "phone": "8001247628",
     "desig": "HT",
     "school": "JAGALGORI PRIMARY SCHOOL",
     "tname": "NITYANANDA GOLUI",
@@ -990,7 +908,6 @@
     "rank": 2,
     "dataYear": 2025,
     "desig": "AT",
-    "phone": "6294464441",
     "id": "teachers179",
     "hoi": "No",
     "school": "JAGALGORI PRIMARY SCHOOL"
@@ -1004,8 +921,7 @@
     "desig": "HT",
     "rank": 1,
     "dataYear": 2025,
-    "udise": "19160215101",
-    "phone": "9647106018"
+    "udise": "19160215101"
   },
   {
     "tname": "SUVRA KANTI SARKAR",
@@ -1013,7 +929,6 @@
     "rank": 2,
     "hoi": "No",
     "dataYear": 2025,
-    "phone": "7003072696",
     "udise": "19160215101",
     "school": "JAYANTI PRIMARY SCHOOL",
     "id": "teachers181",
@@ -1028,12 +943,10 @@
     "gp": "NOWPARA",
     "udise": "19160215101",
     "hoi": "No",
-    "desig": "AT",
-    "phone": "9733378780"
+    "desig": "AT"
   },
   {
     "hoi": "Yes",
-    "phone": "9932936553",
     "rank": 1,
     "tname": "SISIR KUMAR PRAMANICK",
     "udise": "19160202702",
@@ -1046,7 +959,6 @@
   {
     "udise": "19160202702",
     "rank": 2,
-    "phone": "9775593127",
     "tname": "SRIBAS HAZRA",
     "dataYear": 2025,
     "id": "teachers184",
@@ -1062,7 +974,6 @@
     "desig": "AT",
     "school": "JHAMTIA DHARAMPOTA PRIMARY SCHOOL",
     "rank": 3,
-    "phone": "9593369793",
     "dataYear": 2025,
     "udise": "19160202702",
     "id": "teachers185"
@@ -1076,8 +987,7 @@
     "udise": "19160202702",
     "id": "teachers186",
     "hoi": "No",
-    "rank": 4,
-    "phone": "9007433832"
+    "rank": 4
   },
   {
     "desig": "AT",
@@ -1085,14 +995,12 @@
     "tname": "MD JAHIDUR RAHAMAN",
     "rank": 5,
     "hoi": "No",
-    "phone": "6296142088",
     "dataYear": 2025,
     "school": "JHAMTIA DHARAMPOTA PRIMARY SCHOOL",
     "id": "teachers187",
     "gp": "JHAMTIA"
   },
   {
-    "phone": "9775528984",
     "rank": 1,
     "hoi": "Yes",
     "tname": "GOURANGA BODHAK",
@@ -1111,7 +1019,6 @@
     "id": "teachers189",
     "gp": "JHAMTIA",
     "tname": "SOUMOJIT SAHA",
-    "phone": "9231510013",
     "dataYear": 2025,
     "school": "JHAMTIA DHARAPARA PRIMARY SCHOOL"
   },
@@ -1120,7 +1027,6 @@
     "rank": 3,
     "school": "JHAMTIA DHARAPARA PRIMARY SCHOOL",
     "tname": "ALAKA HANSDA",
-    "phone": "6294606515",
     "desig": "AT",
     "udise": "19160202802",
     "id": "teachers385-d26e20d3",
@@ -1132,7 +1038,6 @@
     "rank": 1,
     "desig": "HT",
     "tname": "PROSENJIT GHOSH",
-    "phone": "6291410585",
     "school": "JHAMTIA PRIMARY SCHOOL",
     "id": "teachers190",
     "gp": "JHAMTIA",
@@ -1144,7 +1049,6 @@
     "hoi": "No",
     "id": "teachers191",
     "tname": "RANJAN ROUTH",
-    "phone": "9735705445",
     "rank": 2,
     "dataYear": 2025,
     "desig": "AT",
@@ -1154,7 +1058,6 @@
   {
     "hoi": "No",
     "id": "teachers192",
-    "phone": "7908676991",
     "rank": 3,
     "udise": "19160202601",
     "desig": "AT",
@@ -1169,14 +1072,12 @@
     "tname": "SEKHAR PALMAL",
     "rank": 4,
     "id": "teachers194",
-    "phone": "9733617246",
     "hoi": "No",
     "desig": "AT",
     "dataYear": 2025,
     "udise": "19160202601"
   },
   {
-    "phone": "9609247668",
     "hoi": "No",
     "tname": "TARAK NATH MONDAL",
     "udise": "19160202601",
@@ -1192,7 +1093,6 @@
     "dataYear": 2025,
     "id": "teachers195",
     "school": "JHAMTIA SELNAPARA PRIMARY SCHOOL",
-    "phone": "9733416093",
     "tname": "SUSIL KUMAR SAMANTA",
     "udise": "19160202801",
     "hoi": "Yes",
@@ -1200,7 +1100,6 @@
     "gp": "JHAMTIA"
   },
   {
-    "phone": "9635989091",
     "dataYear": 2025,
     "desig": "AT",
     "udise": "19160202801",
@@ -1216,7 +1115,6 @@
     "udise": "19160202801",
     "dataYear": 2025,
     "tname": "BAPI SAMANTA",
-    "phone": "7699027380",
     "rank": 3,
     "hoi": "No",
     "id": "teachers197",
@@ -1227,7 +1125,6 @@
     "dataYear": 2025,
     "id": "teachers198",
     "gp": "JHIKIRA",
-    "phone": "8001209773",
     "udise": "19160211105",
     "rank": 1,
     "school": "JHIKIRA HIGH ATT PRIMARY SCHOOL",
@@ -1242,7 +1139,6 @@
     "rank": 2,
     "dataYear": 2025,
     "hoi": "No",
-    "phone": "7699354280",
     "id": "teachers199",
     "gp": "JHIKIRA",
     "desig": "AT"
@@ -1255,7 +1151,6 @@
     "hoi": "No",
     "school": "JHIKIRA HIGH ATT PRIMARY SCHOOL",
     "udise": "19160211105",
-    "phone": "9681113810",
     "gp": "JHIKIRA",
     "dataYear": 2025
   },
@@ -1263,7 +1158,6 @@
     "rank": 4,
     "school": "JHIKIRA HIGH ATT PRIMARY SCHOOL",
     "desig": "AT",
-    "phone": "6294574706",
     "dataYear": 2025,
     "udise": "19160211105",
     "tname": "NAZEMUL MALLICK",
@@ -1272,7 +1166,6 @@
     "id": "teachers201"
   },
   {
-    "phone": "7797472417",
     "rank": 1,
     "desig": "HT",
     "id": "teachers202",
@@ -1286,7 +1179,6 @@
   {
     "rank": 2,
     "desig": "AT",
-    "phone": "9734898637",
     "hoi": "No",
     "dataYear": 2025,
     "tname": "ARGHA MAITY",
@@ -1296,7 +1188,6 @@
     "gp": "JHIKIRA"
   },
   {
-    "phone": "9800688317",
     "school": "JHIKIRA MOTIMONI GIRLS PRIMARY SCHOOL",
     "udise": "19160211001",
     "hoi": "No",
@@ -1316,12 +1207,10 @@
     "id": "teachers205",
     "gp": "JHIKIRA",
     "desig": "HT",
-    "school": "JHIKIRA MUSLIMPARA PRIMARY SCHOOL",
-    "phone": "9134840373"
+    "school": "JHIKIRA MUSLIMPARA PRIMARY SCHOOL"
   },
   {
     "hoi": "No",
-    "phone": "9933567365",
     "rank": 2,
     "gp": "JHIKIRA",
     "school": "JHIKIRA MUSLIMPARA PRIMARY SCHOOL",
@@ -1334,7 +1223,6 @@
   {
     "tname": "SK KUTUBUDDIN",
     "school": "JHIKIRA MUSLIMPARA PRIMARY SCHOOL",
-    "phone": "9735033630",
     "gp": "JHIKIRA",
     "rank": 3,
     "hoi": "No",
@@ -1352,14 +1240,12 @@
     "school": "JHIKIRA SATISH CHANDRA JR BASIC SCHOOL",
     "gp": "JHIKIRA",
     "hoi": "Yes",
-    "dataYear": 2025,
-    "phone": "7407561394"
+    "dataYear": 2025
   },
   {
     "desig": "AT",
     "gp": "JHIKIRA",
     "dataYear": 2025,
-    "phone": "7585043883",
     "tname": "ROJINA KHATUN",
     "rank": 2,
     "hoi": "No",
@@ -1371,7 +1257,6 @@
     "gp": "JOYPUR",
     "id": "teachers210",
     "school": "JOYPUR BAKULTALA PRIMARY SCHOOL",
-    "phone": "9051475039",
     "hoi": "Yes",
     "desig": "HT",
     "tname": "NILADRY SEKHAR KHAN",
@@ -1384,7 +1269,6 @@
     "tname": "SRABANI JATI",
     "hoi": "No",
     "id": "teachers212",
-    "phone": "9434300820",
     "udise": "19160212301",
     "gp": "JOYPUR",
     "dataYear": 2025,
@@ -1394,7 +1278,6 @@
   {
     "gp": "JOYPUR",
     "rank": 4,
-    "phone": "8944999190",
     "dataYear": 2025,
     "hoi": "No",
     "udise": "19160212301",
@@ -1411,7 +1294,6 @@
     "hoi": "No",
     "rank": 5,
     "school": "JOYPUR BAKULTALA PRIMARY SCHOOL",
-    "phone": "7044906105",
     "id": "teachers214",
     "desig": "AT"
   },
@@ -1421,7 +1303,6 @@
     "id": "teachers215",
     "gp": "JOYPUR",
     "school": "JOYPUR BAKULTALA PRIMARY SCHOOL",
-    "phone": "8777640613",
     "desig": "AT",
     "rank": 6,
     "tname": "MOUSUMI BISWAS",
@@ -1432,7 +1313,6 @@
     "dataYear": 2025,
     "tname": "MERAJUDDIN SARKAR",
     "hoi": "No",
-    "phone": "9732397218",
     "id": "teachers216",
     "school": "JOYPUR BAKULTALA PRIMARY SCHOOL",
     "udise": "19160212301",
@@ -1448,14 +1328,12 @@
     "udise": "19160212501",
     "hoi": "No",
     "dataYear": 2025,
-    "school": "JOYPUR JOYCHANDI TALA PRIMARY SCHOOL",
-    "phone": "9674831601"
+    "school": "JOYPUR JOYCHANDI TALA PRIMARY SCHOOL"
   },
   {
     "id": "teachers219",
     "desig": "AT",
     "dataYear": 2025,
-    "phone": "8927364512",
     "rank": 2,
     "school": "JOYPUR JOYCHANDI TALA PRIMARY SCHOOL",
     "gp": "JOYPUR",
@@ -1472,7 +1350,6 @@
     "tname": "SK RAJIBUL HAQUE",
     "udise": "19160212002",
     "desig": "HT",
-    "phone": "8013560885",
     "id": "teachers220"
   },
   {
@@ -1482,7 +1359,6 @@
     "hoi": "No",
     "id": "teachers221",
     "rank": 2,
-    "phone": "8250090431",
     "school": "JOYPUR PHAKIRDAS HIGH ATT PRIMARY SCHOOL",
     "udise": "19160212002",
     "tname": "SUBHRADIP POREL"
@@ -1494,7 +1370,6 @@
     "dataYear": 2025,
     "hoi": "No",
     "desig": "AT",
-    "phone": "9800239750",
     "udise": "19160212002",
     "id": "teachers222",
     "school": "JOYPUR PHAKIRDAS HIGH ATT PRIMARY SCHOOL"
@@ -1504,7 +1379,6 @@
     "rank": 1,
     "school": "JOYPUR RAJBANSHI PARA PRIMARY SCHOOL",
     "hoi": "Yes",
-    "phone": "9732747134",
     "desig": "HT",
     "udise": "19160212302",
     "id": "teachers223",
@@ -1520,7 +1394,6 @@
     "udise": "19160212302",
     "tname": "RAJASI SAMANTA",
     "dataYear": 2025,
-    "phone": "8906455152",
     "school": "JOYPUR RAJBANSHI PARA PRIMARY SCHOOL"
   },
   {
@@ -1531,7 +1404,6 @@
     "rank": 3,
     "dataYear": 2025,
     "tname": "SUBHRAJYOTI SAU",
-    "phone": "8001888502",
     "school": "JOYPUR RAJBANSHI PARA PRIMARY SCHOOL",
     "udise": "19160212302"
   },
@@ -1544,13 +1416,11 @@
     "gp": "JOYPUR",
     "desig": "AT",
     "tname": "SK ASIF MURSHED",
-    "phone": "9734503232",
     "rank": 1
   },
   {
     "gp": "JOYPUR",
     "dataYear": 2025,
-    "phone": "7029945789",
     "id": "teachers399-6d7dd594",
     "school": "JOYPUR SANTRAPARA PRIMARY SCHOOL",
     "tname": "FALGUNI MALIK",
@@ -1568,8 +1438,7 @@
     "hoi": "Yes",
     "dataYear": 2025,
     "school": "JOYPUR SURANGAMAYEE GIRLS PRIMARY SCHOOL",
-    "tname": "TANDRA DALUI",
-    "phone": "9732410471"
+    "tname": "TANDRA DALUI"
   },
   {
     "gp": "JOYPUR",
@@ -1580,7 +1449,6 @@
     "school": "JOYPUR SURANGAMAYEE GIRLS PRIMARY SCHOOL",
     "tname": "RAJESH MAITY",
     "id": "teachers229",
-    "phone": "9563103598",
     "udise": "19160212102"
   },
   {
@@ -1589,7 +1457,6 @@
     "school": "JOYPUR SURANGAMAYEE GIRLS PRIMARY SCHOOL",
     "id": "teachers397-a816599d",
     "desig": "AT",
-    "phone": "9732749578",
     "hoi": "No",
     "rank": 3,
     "udise": "19160212102",
@@ -1604,8 +1471,7 @@
     "dataYear": 2025,
     "hoi": "Yes",
     "desig": "HT",
-    "tname": "MRITUNJOY MANNA",
-    "phone": "9593631024"
+    "tname": "MRITUNJOY MANNA"
   },
   {
     "id": "teachers231",
@@ -1616,7 +1482,6 @@
     "tname": "JULFIKAR ALI SHAH",
     "rank": 2,
     "school": "KALASHDIHI PRIMARY SCHOOL",
-    "phone": "9564106318",
     "hoi": "No"
   },
   {
@@ -1627,7 +1492,6 @@
     "id": "teachers232",
     "hoi": "No",
     "udise": "19160202901",
-    "phone": "8145421171",
     "dataYear": 2025,
     "school": "KALASHDIHI PRIMARY SCHOOL"
   },
@@ -1637,7 +1501,6 @@
     "rank": 4,
     "id": "teachers233",
     "hoi": "no",
-    "phone": "8016273704",
     "dataYear": 2025,
     "tname": "RUPALI DAS",
     "school": "KALASHDIHI PRIMARY SCHOOL",
@@ -1652,8 +1515,7 @@
     "udise": "19160202901",
     "gp": "JHAMTIA",
     "desig": "AT",
-    "hoi": "No",
-    "phone": "8116959200"
+    "hoi": "No"
   },
   {
     "tname": "SUSMITA DHAWA",
@@ -1662,7 +1524,6 @@
     "gp": "GAZIPUR",
     "desig": "HT",
     "school": "KALBANSH GAZENDRA PRIMARY SCHOOL",
-    "phone": "9433431700",
     "rank": 1,
     "hoi": "Yes",
     "udise": "19160214102"
@@ -1675,13 +1536,11 @@
     "rank": 2,
     "desig": "AT",
     "school": "KALBANSH GAZENDRA PRIMARY SCHOOL",
-    "phone": "9830917556",
     "gp": "GAZIPUR",
     "hoi": "No"
   },
   {
     "udise": "19160214102",
-    "phone": "9732687128",
     "hoi": "No",
     "id": "teachers236",
     "dataYear": 2025,
@@ -1696,7 +1555,6 @@
     "id": "teachers237",
     "school": "KAMARGORIA PRIMARY SCHOOL",
     "gp": "JHAMTIA",
-    "phone": "8001188514",
     "desig": "HT",
     "hoi": "Yes",
     "tname": "TAPAN KUMAR KOLEY",
@@ -1712,7 +1570,6 @@
     "desig": "AT",
     "tname": "BABULAL DHARA",
     "udise": "19160203401",
-    "phone": "9749218250",
     "gp": "JHAMTIA"
   },
   {
@@ -1724,14 +1581,12 @@
     "rank": 3,
     "desig": "AT",
     "gp": "JHAMTIA",
-    "udise": "19160203401",
-    "phone": "9564059140"
+    "udise": "19160203401"
   },
   {
     "udise": "19160202701",
     "school": "KAMARKHOLA PRIMARY SCHOOL",
     "hoi": "Yes",
-    "phone": "9735290603",
     "desig": "HT",
     "tname": "SAMIR BAG",
     "dataYear": 2025,
@@ -1745,7 +1600,6 @@
     "rank": 2,
     "gp": "JHAMTIA",
     "dataYear": 2025,
-    "phone": "9153390175",
     "udise": "19160202701",
     "hoi": "No",
     "tname": "KUMARESH SARKAR",
@@ -1760,7 +1614,6 @@
     "school": "KAMARKHOLA PRIMARY SCHOOL",
     "udise": "19160202701",
     "gp": "JHAMTIA",
-    "phone": "9153678543",
     "tname": "MILAN BISWAS"
   },
   {
@@ -1772,14 +1625,12 @@
     "dataYear": 2025,
     "id": "teachers392-5190daaf",
     "gp": "JHAMTIA",
-    "desig": "AT",
-    "phone": "7001646636"
+    "desig": "AT"
   },
   {
     "tname": "TAPAS KUMAR GHOSH",
     "udise": "19160209905",
     "dataYear": 2025,
-    "phone": "9732482030",
     "id": "teachers243",
     "gp": "AMORAGORI",
     "school": "KANKROLE PREMOMOYEE PRIMARY SCHOOL",
@@ -1790,7 +1641,6 @@
   {
     "dataYear": 2025,
     "id": "teachers244",
-    "phone": "9733668115",
     "rank": 2,
     "hoi": "No",
     "tname": "MURARIMOHAN MANNA",
@@ -1805,7 +1655,6 @@
     "tname": "AVIJIT ROY",
     "gp": "AMORAGORI",
     "hoi": "No",
-    "phone": "9734550353",
     "udise": "19160209905",
     "rank": 3,
     "school": "KANKROLE PREMOMOYEE PRIMARY SCHOOL",
@@ -1819,7 +1668,6 @@
     "tname": "CHINMOY KHAN",
     "dataYear": 2025,
     "udise": "19160209905",
-    "phone": "7797264970",
     "hoi": "No",
     "rank": 4
   },
@@ -1828,7 +1676,6 @@
     "rank": 1,
     "id": "teachers247",
     "hoi": "Yes",
-    "phone": "9735203752",
     "tname": "PANKAJ KUMAR MONDAL",
     "dataYear": 2025,
     "desig": "HT",
@@ -1840,7 +1687,6 @@
     "rank": 2,
     "hoi": "No",
     "tname": "TAPASI RAY",
-    "phone": "7679229804",
     "gp": "JHAMTIA",
     "desig": "AT",
     "id": "teachers248",
@@ -1848,7 +1694,6 @@
     "dataYear": 2025
   },
   {
-    "phone": "8250815230",
     "dataYear": 2025,
     "school": "KHAJURDAHA PRIMARY SCHOOL",
     "rank": 3,
@@ -1861,7 +1706,6 @@
   },
   {
     "school": "KHAJURDAHA PRIMARY SCHOOL",
-    "phone": "8116820609",
     "id": "teachers250",
     "hoi": "No",
     "desig": "AT",
@@ -1876,7 +1720,6 @@
     "rank": 5,
     "id": "teachers393-b8f65964",
     "desig": "AT",
-    "phone": "9564872462",
     "udise": "19160203001",
     "hoi": "No",
     "gp": "JHAMTIA",
@@ -1891,7 +1734,6 @@
     "id": "teachers251",
     "dataYear": 2025,
     "hoi": "Yes",
-    "phone": "9775197209",
     "desig": "HT",
     "udise": "19160213801"
   },
@@ -1902,7 +1744,6 @@
     "gp": "GAZIPUR",
     "hoi": "No",
     "rank": 2,
-    "phone": "6294484381",
     "school": "KHORIOP HIGH ATT PRIMARY SCHOOL",
     "dataYear": 2025,
     "tname": "SUMANTA PATRA"
@@ -1910,7 +1751,6 @@
   {
     "id": "teachers253",
     "school": "KHORIOP HIGH ATT PRIMARY SCHOOL",
-    "phone": "9732887224",
     "udise": "19160213801",
     "dataYear": 2025,
     "rank": 3,
@@ -1927,7 +1767,6 @@
     "gp": "GAZIPUR",
     "hoi": "No",
     "udise": "19160213801",
-    "phone": "9775314437",
     "tname": "ANKITA KOLEY DAS",
     "school": "KHORIOP HIGH ATT PRIMARY SCHOOL"
   },
@@ -1936,7 +1775,6 @@
     "desig": "AT",
     "dataYear": 2025,
     "hoi": "No",
-    "phone": "9732885959",
     "rank": 5,
     "tname": "ULLASH JANA",
     "id": "teachers256",
@@ -1951,7 +1789,6 @@
     "rank": 6,
     "dataYear": 2025,
     "school": "KHORIOP HIGH ATT PRIMARY SCHOOL",
-    "phone": "9734840113",
     "tname": "RAJESH GOLUI",
     "gp": "GAZIPUR"
   },
@@ -1964,14 +1801,12 @@
     "dataYear": 2025,
     "id": "teachers257",
     "hoi": "Yes",
-    "phone": "9732939565",
     "udise": "19160213902"
   },
   {
     "school": "KHOROP SOUTH PRIMARY",
     "tname": "UDAY BHUINYA",
     "desig": "AT",
-    "phone": "7679027560",
     "rank": 2,
     "gp": "GAZIPUR",
     "dataYear": 2025,
@@ -1988,8 +1823,7 @@
     "dataYear": 2025,
     "school": "KHOROP SOUTH PRIMARY",
     "hoi": "No",
-    "rank": 3,
-    "phone": "9051723748"
+    "rank": 3
   },
   {
     "tname": "KHEYALI MALAKAR",
@@ -1998,7 +1832,6 @@
     "rank": 5,
     "school": "KHOROP SOUTH PRIMARY",
     "id": "teachers261",
-    "phone": "9836685856",
     "desig": "AT",
     "hoi": "No",
     "gp": "GAZIPUR"
@@ -2009,7 +1842,6 @@
     "udise": "19160213902",
     "school": "KHOROP SOUTH PRIMARY",
     "tname": "MUKUL HAZRA",
-    "phone": "8597672513",
     "id": "teachers262",
     "desig": "AT",
     "dataYear": 2025,
@@ -2024,15 +1856,13 @@
     "hoi": "Yes",
     "school": "KUNDULIA TAPASILI PRIMARY SCHOOL",
     "tname": "SNEHASHIS JANA",
-    "gp": "BKBATI",
-    "phone": "9775080943"
+    "gp": "BKBATI"
   },
   {
     "desig": "AT",
     "hoi": "No",
     "gp": "BKBATI",
     "id": "teachers264",
-    "phone": "6291726856",
     "school": "KUNDULIA TAPASILI PRIMARY SCHOOL",
     "udise": "19160208701",
     "rank": 2,
@@ -2042,7 +1872,6 @@
   {
     "school": "KUNDULIA TAPASILI PRIMARY SCHOOL",
     "rank": 3,
-    "phone": "8777029906",
     "dataYear": 2025,
     "hoi": "No",
     "gp": "BKBATI",
@@ -2060,13 +1889,11 @@
     "school": "KUNDULIA TAPASILI PRIMARY SCHOOL",
     "id": "teachers266",
     "dataYear": 2025,
-    "phone": "9732705575",
     "hoi": "No"
   },
   {
     "dataYear": 2025,
     "school": "MAHAKALPUR MC HIGH ATT PRIMARY SCHOOL",
-    "phone": "9593004052",
     "rank": 1,
     "gp": "AMORAGORI",
     "desig": "HT",
@@ -2080,7 +1907,6 @@
     "gp": "AMORAGORI",
     "desig": "AT",
     "school": "MAHAKALPUR MC HIGH ATT PRIMARY SCHOOL",
-    "phone": "9732475045",
     "udise": "19160209401",
     "rank": 2,
     "id": "teachers268",
@@ -2096,7 +1922,6 @@
     "udise": "19160209401",
     "school": "MAHAKALPUR MC HIGH ATT PRIMARY SCHOOL",
     "dataYear": 2025,
-    "phone": "7699215185",
     "gp": "AMORAGORI"
   },
   {
@@ -2105,7 +1930,6 @@
     "udise": "19160209401",
     "gp": "AMORAGORI",
     "hoi": "No",
-    "phone": "9564374618",
     "id": "teachers270",
     "rank": 4,
     "desig": "AT",
@@ -2118,7 +1942,6 @@
     "id": "teachers271",
     "hoi": "No",
     "udise": "19160209401",
-    "phone": "9734673448",
     "tname": "SOUMEN MAITY",
     "gp": "AMORAGORI",
     "school": "MAHAKALPUR MC HIGH ATT PRIMARY SCHOOL"
@@ -2132,13 +1955,11 @@
     "dataYear": 2025,
     "school": "MAHAKALPUR MC HIGH ATT PRIMARY SCHOOL",
     "hoi": "No",
-    "tname": "ARKA CHANDRA",
-    "phone": "9547011011"
+    "tname": "ARKA CHANDRA"
   },
   {
     "id": "teachers273",
     "school": "MAINAN PRIMARY SCHOOL",
-    "phone": "9609792762",
     "udise": "19160213602",
     "rank": 1,
     "dataYear": 2025,
@@ -2150,7 +1971,6 @@
   {
     "tname": "TAPAS POLLEY",
     "id": "teachers274",
-    "phone": "6294764540",
     "dataYear": 2025,
     "hoi": "No",
     "desig": "AT",
@@ -2162,7 +1982,6 @@
   {
     "school": "MAINAN PRIMARY SCHOOL",
     "hoi": "No",
-    "phone": "9330536561",
     "id": "teachers275",
     "rank": 3,
     "dataYear": 2025,
@@ -2172,7 +1991,6 @@
     "udise": "19160213602"
   },
   {
-    "phone": "9732439981",
     "rank": 4,
     "hoi": "No",
     "desig": "AT",
@@ -2185,7 +2003,6 @@
   },
   {
     "hoi": "No",
-    "phone": "7908792764",
     "desig": "AT",
     "dataYear": 2025,
     "tname": "SHAMPA SAU BODHAK",
@@ -2202,7 +2019,6 @@
     "hoi": "No",
     "gp": "THALIA",
     "tname": "SUMANA PRAMANIK",
-    "phone": "8768758855",
     "id": "teachers278",
     "rank": 6,
     "desig": "AT"
@@ -2214,14 +2030,12 @@
     "tname": "SHEULI PRODHAN",
     "udise": "19160213602",
     "id": "teachers396-680da03e",
-    "phone": "8172082636",
     "hoi": "No",
     "school": "MAINAN PRIMARY SCHOOL",
     "gp": "THALIA"
   },
   {
     "desig": "HT",
-    "phone": "9734535170",
     "tname": "HEMANTA KUMAR SADHUKHAN",
     "udise": "19160209502",
     "hoi": "Yes",
@@ -2240,7 +2054,6 @@
     "gp": "AMORAGORI",
     "desig": "AT",
     "tname": "SOUVIK SAMANTA",
-    "phone": "8336047980",
     "rank": 2
   },
   {
@@ -2252,7 +2065,6 @@
     "id": "teachers281",
     "school": "MANUCHAK ORIENTED PRIMARY SCHOOL",
     "dataYear": 2025,
-    "phone": "9735706717",
     "hoi": "No"
   },
   {
@@ -2264,7 +2076,6 @@
     "desig": "HT",
     "udise": "19160210502",
     "tname": "SK GOLAM EAJDANI",
-    "phone": "8927962628",
     "gp": "AMORAGORI"
   },
   {
@@ -2272,7 +2083,6 @@
     "desig": "AT",
     "dataYear": 2025,
     "hoi": "No",
-    "phone": "7908477099",
     "rank": 2,
     "tname": "SUDIP KUMAR KARAR",
     "id": "teachers283",
@@ -2286,7 +2096,6 @@
     "dataYear": 2025,
     "gp": "AMORAGORI",
     "desig": "AT",
-    "phone": "9647470822",
     "id": "teachers284",
     "rank": 3,
     "school": "MENOKA SMRITI VIDYAMANDIR JR BASIC"
@@ -2297,7 +2106,6 @@
     "udise": "19160210502",
     "gp": "AMORAGORI",
     "hoi": "No",
-    "phone": "9775125951",
     "id": "teachers285",
     "rank": 4,
     "desig": "AT",
@@ -2305,7 +2113,6 @@
   },
   {
     "id": "teachers286",
-    "phone": "9733385936",
     "rank": 5,
     "hoi": "No",
     "desig": "AT",
@@ -2320,7 +2127,6 @@
     "school": "MENOKA SMRITI VIDYAMANDIR JR BASIC",
     "desig": "AT",
     "rank": 6,
-    "phone": "9932395781",
     "tname": "SOUVIK CHAUDHURI",
     "hoi": "No",
     "id": "teachers287",
@@ -2333,7 +2139,6 @@
     "gp": "AMORAGORI",
     "hoi": "No",
     "school": "MENOKA SMRITI VIDYAMANDIR JR BASIC",
-    "phone": "9933584813",
     "dataYear": 2025,
     "rank": 7,
     "udise": "19160210502",
@@ -2343,7 +2148,6 @@
     "rank": 8,
     "dataYear": 2025,
     "tname": "SOMENDRA NATH DAS",
-    "phone": "9734862569",
     "desig": "AT",
     "gp": "AMORAGORI",
     "hoi": "No",
@@ -2352,7 +2156,6 @@
     "udise": "19160210502"
   },
   {
-    "phone": "9734802588",
     "udise": "19160209703",
     "rank": 1,
     "tname": "DEBABRATA DAS",
@@ -2372,12 +2175,10 @@
     "desig": "AT",
     "tname": "KAMALA KANTA RAUL",
     "gp": "AMORAGORI",
-    "id": "teachers291",
-    "phone": "8768508518"
+    "id": "teachers291"
   },
   {
     "desig": "AT",
-    "phone": "8250719772",
     "tname": "DIBYENDU SAMANTA",
     "udise": "19160209703",
     "id": "teachers395-e928c8e3",
@@ -2390,7 +2191,6 @@
   {
     "gp": "BKBATI",
     "id": "teachers292",
-    "phone": "9733604530",
     "rank": 1,
     "school": "NISCHINTAPUR PRIMARY SCHOOL",
     "udise": "19160209102",
@@ -2408,11 +2208,9 @@
     "hoi": "No",
     "school": "NISCHINTAPUR PRIMARY SCHOOL",
     "rank": 2,
-    "phone": "9647178817",
     "id": "teachers293"
   },
   {
-    "phone": "7001023123",
     "gp": "BKBATI",
     "id": "teachers294",
     "dataYear": 2025,
@@ -2424,7 +2222,6 @@
     "hoi": "No"
   },
   {
-    "phone": "7980367887",
     "tname": "KAJARI BISWAS",
     "gp": "BKBATI",
     "school": "NISCHINTAPUR PRIMARY SCHOOL",
@@ -2443,7 +2240,6 @@
     "dataYear": 2025,
     "gp": "NOWPARA",
     "desig": "HT",
-    "phone": "9733731516",
     "udise": "19160215403",
     "tname": "PALASH KUMAR DALUI"
   },
@@ -2453,7 +2249,6 @@
     "school": "NOWPARA GAZIPUR PRIMARY SCHOOL",
     "rank": 2,
     "hoi": "No",
-    "phone": "9734575836",
     "gp": "NOWPARA",
     "tname": "DILIP DALUI",
     "id": "teachers297",
@@ -2461,7 +2256,6 @@
   },
   {
     "school": "NOWPARA GAZIPUR PRIMARY SCHOOL",
-    "phone": "7001585383",
     "id": "teachers298",
     "hoi": "No",
     "desig": "AT",
@@ -2480,7 +2274,6 @@
     "dataYear": 2025,
     "id": "teachers299",
     "gp": "NOWPARA",
-    "phone": "9836347096",
     "hoi": "Yes"
   },
   {
@@ -2489,7 +2282,6 @@
     "desig": "AT",
     "udise": "19160215301",
     "school": "NOWPARA JUNIOR BASIC SCHOOL",
-    "phone": "9732541838",
     "rank": 2,
     "id": "teachers300",
     "tname": "PROSENJIT PARAL",
@@ -2502,7 +2294,6 @@
     "id": "teachers301",
     "dataYear": 2025,
     "gp": "NOWPARA",
-    "phone": "9153860624",
     "udise": "19160215301",
     "rank": 3,
     "tname": "BIPLAB GHOSH"
@@ -2516,14 +2307,12 @@
     "id": "teachers302",
     "dataYear": 2025,
     "desig": "AT",
-    "udise": "19160215301",
-    "phone": "9732249784"
+    "udise": "19160215301"
   },
   {
     "school": "NOWPARA JUNIOR BASIC SCHOOL",
     "rank": 5,
     "dataYear": 2025,
-    "phone": "9932651923",
     "desig": "AT",
     "udise": "19160215301",
     "tname": "SIDDHARTHA MONDAL",
@@ -2535,7 +2324,6 @@
     "desig": "AT",
     "hoi": "No",
     "id": "teachers387-8a82d5ab",
-    "phone": "9088746454",
     "tname": "TARUN KUMAR BARUI",
     "rank": 6,
     "gp": "NOWPARA",
@@ -2552,8 +2340,7 @@
     "id": "teachers304",
     "udise": "19160210204",
     "gp": "AMORAGORI",
-    "tname": "SISIRKANA BERA",
-    "phone": "9002642195"
+    "tname": "SISIRKANA BERA"
   },
   {
     "dataYear": 2025,
@@ -2564,13 +2351,11 @@
     "gp": "AMORAGORI",
     "school": "NUTANGRAM PRIMARY SCHOOL",
     "hoi": "No",
-    "phone": "9733917745",
     "tname": "ANUP DAS"
   },
   {
     "dataYear": 2025,
     "school": "NUTANGRAM PRIMARY SCHOOL",
-    "phone": "8348711584",
     "rank": 3,
     "gp": "AMORAGORI",
     "desig": "AT",
@@ -2582,7 +2367,6 @@
   {
     "id": "teachers307",
     "tname": "JHANTU MALLICK",
-    "phone": "9735311024",
     "desig": "AT",
     "school": "NUTANGRAM PRIMARY SCHOOL",
     "hoi": "No",
@@ -2596,7 +2380,6 @@
     "tname": "GADADHAR BAR",
     "desig": "AT",
     "udise": "19160210204",
-    "phone": "9732568052",
     "dataYear": 2025,
     "rank": 5,
     "school": "NUTANGRAM PRIMARY SCHOOL",
@@ -2608,7 +2391,6 @@
     "id": "teachers309",
     "udise": "19160211201",
     "desig": "HT",
-    "phone": "9593094709",
     "hoi": "Yes",
     "tname": "SAIKAT MONDAL",
     "gp": "JHIKIRA",
@@ -2617,7 +2399,6 @@
   },
   {
     "desig": "AT",
-    "phone": "8617829925",
     "tname": "PALASH BEJ",
     "id": "teachers310",
     "school": "PAIKBASA PRIMARY SCHOOL",
@@ -2630,7 +2411,6 @@
   {
     "dataYear": 2025,
     "desig": "AT",
-    "phone": "9563044911",
     "udise": "19160211201",
     "id": "teachers311",
     "hoi": "No",
@@ -2642,7 +2422,6 @@
   {
     "id": "teachers312",
     "school": "PASCHIM GAZIPUR II PRIMARY SCHOOL",
-    "phone": "9775331649",
     "udise": "19160214504",
     "rank": 1,
     "dataYear": 2025,
@@ -2654,7 +2433,6 @@
   {
     "rank": 2,
     "school": "PASCHIM GAZIPUR II PRIMARY SCHOOL",
-    "phone": "9800652239",
     "hoi": "No",
     "desig": "AT",
     "id": "teachers313",
@@ -2664,7 +2442,6 @@
     "gp": "GAZIPUR"
   },
   {
-    "phone": "8336841569",
     "rank": 3,
     "hoi": "No",
     "school": "PASCHIM GAZIPUR II PRIMARY SCHOOL",
@@ -2684,7 +2461,6 @@
     "tname": "MANTU MALICK",
     "school": "PASCHIM NOWPARA PRIMARY SCHOOL",
     "rank": 1,
-    "phone": "9564097750",
     "id": "teachers315"
   },
   {
@@ -2692,7 +2468,6 @@
     "desig": "AT",
     "udise": "19160215503",
     "school": "PASCHIM NOWPARA PRIMARY SCHOOL",
-    "phone": "8967152547",
     "tname": "GITA ADHIKARY",
     "dataYear": 2025,
     "id": "teachers316",
@@ -2708,13 +2483,11 @@
     "school": "PASCHIM SAURIA PRIMARY SCHOOL",
     "id": "teachers317",
     "tname": "ABHISHEK CHATTERJEE",
-    "udise": "19160203201",
-    "phone": "9800618200"
+    "udise": "19160203201"
   },
   {
     "udise": "19160203201",
     "id": "teachers318",
-    "phone": "9093360276",
     "gp": "JHAMTIA",
     "dataYear": 2025,
     "desig": "AT",
@@ -2724,7 +2497,6 @@
     "hoi": "No"
   },
   {
-    "phone": "8967634131",
     "school": "PASCHIM SAURIA PRIMARY SCHOOL",
     "desig": "AT",
     "tname": "GOPINATH MANNA",
@@ -2736,7 +2508,6 @@
     "rank": 3
   },
   {
-    "phone": "9083943128",
     "udise": "19160208702",
     "school": "RANJOYBAR MUZAFFAR AHMED PRIMARY SCHOOL",
     "desig": "AT",
@@ -2755,7 +2526,6 @@
     "tname": "KUNTAL PACHAL",
     "hoi": "No",
     "udise": "19160208702",
-    "phone": "8001884574",
     "rank": 2,
     "gp": "BKBATI"
   },
@@ -2768,14 +2538,12 @@
     "id": "teachers321",
     "school": "RANJOYBAR MUZAFFAR AHMED PRIMARY SCHOOL",
     "dataYear": 2025,
-    "phone": "7076322649",
     "hoi": "No"
   },
   {
     "gp": "BKBATI",
     "desig": "HT",
     "id": "teachers322",
-    "phone": "9733743255",
     "school": "RANJOYBAR PRIMARY SCHOOL",
     "udise": "19160208801",
     "rank": 1,
@@ -2786,7 +2554,6 @@
   {
     "tname": "BALARAM PAL",
     "gp": "BKBATI",
-    "phone": "9734225911",
     "udise": "19160208801",
     "hoi": "No",
     "desig": "AT",
@@ -2804,15 +2571,13 @@
     "desig": "AT",
     "rank": 3,
     "id": "teachers324",
-    "dataYear": 2025,
-    "phone": "8768150097"
+    "dataYear": 2025
   },
   {
     "school": "RANJOYBAR PRIMARY SCHOOL",
     "id": "teachers325",
     "rank": 4,
     "udise": "19160208801",
-    "phone": "7003438922",
     "gp": "BKBATI",
     "hoi": "No",
     "desig": "AT",
@@ -2825,7 +2590,6 @@
     "udise": "19160208801",
     "tname": "SATINDRA NATH BERA",
     "desig": "AT",
-    "phone": "9836176682",
     "gp": "BKBATI",
     "id": "teachers326",
     "dataYear": 2025,
@@ -2839,12 +2603,10 @@
     "dataYear": 2025,
     "desig": "HT",
     "school": "RAUTARA PRIMARY SCHOOL",
-    "phone": "9732867912",
     "id": "teachers327",
     "gp": "AMORAGORI"
   },
   {
-    "phone": "9735704783",
     "desig": "AT",
     "hoi": "No",
     "id": "teachers328",
@@ -2860,7 +2622,6 @@
     "desig": "AT",
     "udise": "19160210103",
     "id": "teachers329",
-    "phone": "9732334279",
     "school": "RAUTARA PRIMARY SCHOOL",
     "tname": "MANASI SHOW",
     "gp": "AMORAGORI",
@@ -2874,7 +2635,6 @@
     "hoi": "No",
     "id": "teachers330",
     "desig": "AT",
-    "phone": "7548916378",
     "udise": "19160210103",
     "dataYear": 2025,
     "tname": "NARAYAN CHANDRA MANNA"
@@ -2888,12 +2648,10 @@
     "tname": "MITHUN CHAKRABORTY",
     "gp": "BKBATI",
     "hoi": "Yes",
-    "rank": 1,
-    "phone": "9593133101"
+    "rank": 1
   },
   {
     "hoi": "No",
-    "phone": "9732973975",
     "rank": 2,
     "tname": "ARUN KUMAR PAL",
     "udise": "19160208501",
@@ -2912,7 +2670,6 @@
     "gp": "BKBATI",
     "desig": "AT",
     "id": "teachers333",
-    "phone": "8436993697",
     "rank": 3
   },
   {
@@ -2923,7 +2680,6 @@
     "udise": "19160208501",
     "gp": "BKBATI",
     "school": "SAHARABERIA PRIMARY SCHOOL",
-    "phone": "7908323899",
     "dataYear": 2025,
     "hoi": "No"
   },
@@ -2935,7 +2691,6 @@
     "rank": 5,
     "hoi": "No",
     "gp": "BKBATI",
-    "phone": "9883169835",
     "school": "SAHARABERIA PRIMARY SCHOOL",
     "dataYear": 2025
   },
@@ -2946,7 +2701,6 @@
     "udise": "19160208601",
     "school": "SAHARABERIA SUKANTA PRIMARY SCHOOL",
     "rank": 1,
-    "phone": "9732579090",
     "tname": "AVIJIT KANRAR",
     "id": "teachers388-9d83883f",
     "hoi": "Yes"
@@ -2957,7 +2711,6 @@
     "gp": "BKBATI",
     "udise": "19160208601",
     "dataYear": 2025,
-    "phone": "8538800249",
     "school": "SAHARABERIA SUKANTA PRIMARY SCHOOL",
     "id": "teachers336",
     "desig": "AT",
@@ -2971,7 +2724,6 @@
     "rank": 3,
     "dataYear": 2025,
     "id": "teachers337",
-    "phone": "9932096247",
     "hoi": "No",
     "udise": "19160208601"
   },
@@ -2984,8 +2736,7 @@
     "udise": "19160208601",
     "rank": 4,
     "hoi": "No",
-    "gp": "BKBATI",
-    "phone": "8145427324"
+    "gp": "BKBATI"
   },
   {
     "rank": 1,
@@ -2993,7 +2744,6 @@
     "gp": "JHAMTIA",
     "id": "teachers339",
     "hoi": "Yes",
-    "phone": "9153789729",
     "school": "SANURIA ORIENTED PRIMARY SCHOOL",
     "udise": "19160203101",
     "desig": "HT",
@@ -3002,7 +2752,6 @@
   {
     "id": "teachers340",
     "tname": "TINA GAYEN DOLUI",
-    "phone": "8348679681",
     "gp": "JHAMTIA",
     "dataYear": 2025,
     "rank": 2,
@@ -3020,8 +2769,7 @@
     "rank": 1,
     "id": "teachers341",
     "hoi": "Yes",
-    "desig": "HT",
-    "phone": "9734879541"
+    "desig": "HT"
   },
   {
     "dataYear": 2025,
@@ -3029,7 +2777,6 @@
     "udise": "19160203202",
     "school": "SATPOTA PRIMARY SCHOOL",
     "rank": 2,
-    "phone": "9002915495",
     "tname": "SOURAV SHAW",
     "hoi": "No",
     "desig": "AT",
@@ -3044,13 +2791,11 @@
     "rank": 3,
     "hoi": "No",
     "school": "SATPOTA PRIMARY SCHOOL",
-    "phone": "9679682209",
     "desig": "AT"
   },
   {
     "gp": "THALIA",
     "rank": 1,
-    "phone": "74077517774",
     "hoi": "Yes",
     "school": "SEHAGORI PRIMARY SCHOOL",
     "dataYear": 2025,
@@ -3068,12 +2813,10 @@
     "desig": "AT",
     "dataYear": 2025,
     "gp": "THALIA",
-    "school": "SEHAGORI PRIMARY SCHOOL",
-    "phone": "8617673566"
+    "school": "SEHAGORI PRIMARY SCHOOL"
   },
   {
     "rank": 3,
-    "phone": "8777651401",
     "tname": "LIPIKA MONDAL",
     "school": "SEHAGORI PRIMARY SCHOOL",
     "gp": "THALIA",
@@ -3091,7 +2834,6 @@
     "hoi": "Yes",
     "school": "SEHAGORI RAJBANSHIPARA PRIMARY SCHOOL",
     "udise": "19160213302",
-    "phone": "9932594142",
     "rank": 1,
     "dataYear": 2025
   },
@@ -3099,7 +2841,6 @@
     "tname": "PAROMITA ROY",
     "udise": "19160213302",
     "school": "SEHAGORI RAJBANSHIPARA PRIMARY SCHOOL",
-    "phone": "8513945403",
     "desig": "AT",
     "hoi": "No",
     "id": "teachers348",
@@ -3111,7 +2852,6 @@
     "rank": 3,
     "udise": "19160213302",
     "desig": "AT",
-    "phone": "9734726112",
     "id": "teachers349",
     "school": "SEHAGORI RAJBANSHIPARA PRIMARY SCHOOL",
     "hoi": "No",
@@ -3120,7 +2860,6 @@
     "gp": "THALIA"
   },
   {
-    "phone": "9732582246",
     "udise": "19160211802",
     "gp": "JHIKIRA",
     "school": "SHIBGACHIA PRIMARY SCHOOL",
@@ -3138,14 +2877,12 @@
     "school": "SHIBGACHIA PRIMARY SCHOOL",
     "rank": 2,
     "gp": "JHIKIRA",
-    "phone": "8001735484",
     "hoi": "No",
     "dataYear": 2025,
     "id": "teachers351"
   },
   {
     "udise": "19160211802",
-    "phone": "8910170893",
     "dataYear": 2025,
     "rank": 3,
     "id": "teachers352",
@@ -3164,8 +2901,7 @@
     "udise": "19160211802",
     "hoi": "No",
     "dataYear": 2025,
-    "rank": 4,
-    "phone": "8768140148"
+    "rank": 4
   },
   {
     "desig": "HT",
@@ -3174,7 +2910,6 @@
     "udise": "19160211803",
     "rank": 1,
     "hoi": "Yes",
-    "phone": "9836622963",
     "tname": "SALIL KUMAR CHAKRABORTTY",
     "id": "teachers353",
     "school": "SIBGACHIA HORIZON PRIMARY SCHOOL"
@@ -3182,7 +2917,6 @@
   {
     "rank": 2,
     "gp": "JHIKIRA",
-    "phone": "9681712649",
     "udise": "19160211803",
     "hoi": "No",
     "school": "SIBGACHIA HORIZON PRIMARY SCHOOL",
@@ -3192,7 +2926,6 @@
     "tname": "SANTI KUMAR KARAK"
   },
   {
-    "phone": "9647289602",
     "dataYear": 2025,
     "rank": 1,
     "udise": "19160211702",
@@ -3206,7 +2939,6 @@
   {
     "tname": "SK SABIR HOSSAIN",
     "gp": "JHIKIRA",
-    "phone": "8348014902",
     "rank": 2,
     "udise": "19160211702",
     "id": "teachers356",
@@ -3217,7 +2949,6 @@
   },
   {
     "desig": "HT",
-    "phone": "8001301349",
     "id": "teachers357",
     "tname": "KANIKA PANJA",
     "gp": "JHAMTIA",
@@ -3234,14 +2965,12 @@
     "id": "teachers358",
     "school": "TELIBERIA PRIMARY SCHOOL",
     "rank": 2,
-    "phone": "9836228118",
     "desig": "AT",
     "hoi": "no",
     "gp": "JHAMTIA"
   },
   {
     "rank": 1,
-    "phone": "9933359404",
     "id": "teachers359",
     "gp": "BKBATI",
     "dataYear": 2025,
@@ -3257,7 +2986,6 @@
     "desig": "AT",
     "tname": "BARNA DATTA",
     "gp": "BKBATI",
-    "phone": "9732560480",
     "udise": "19160209002",
     "id": "teachers360",
     "hoi": "No",
@@ -3271,12 +2999,10 @@
     "hoi": "No",
     "school": "THALIA HARA CHAND PRIMARY SCHOOL",
     "udise": "19160209002",
-    "phone": "7548087105",
     "gp": "BKBATI",
     "dataYear": 2025
   },
   {
-    "phone": "8373023462",
     "id": "teachers362",
     "hoi": "No",
     "dataYear": 2025,
@@ -3292,7 +3018,6 @@
     "dataYear": 2025,
     "id": "teachers363",
     "desig": "AT",
-    "phone": "8653465192",
     "rank": 5,
     "gp": "BKBATI",
     "school": "THALIA HARA CHAND PRIMARY SCHOOL",
@@ -3308,7 +3033,6 @@
     "gp": "BKBATI",
     "desig": "AT",
     "school": "THALIA HARA CHAND PRIMARY SCHOOL",
-    "phone": "9051238534",
     "dataYear": 2025
   },
   {
@@ -3316,7 +3040,6 @@
     "rank": 1,
     "dataYear": 2025,
     "id": "teachers365",
-    "phone": "9432950413",
     "school": "THALIA SIBTOLA PRIMARY SCHOOL",
     "udise": "19160213101",
     "gp": "THALIA",
@@ -3332,11 +3055,9 @@
     "id": "teachers366",
     "tname": "DIBYENDU KOLEY",
     "desig": "AT",
-    "phone": "8972744091",
     "dataYear": 2025
   },
   {
-    "phone": "9735460303",
     "desig": "AT",
     "hoi": "No",
     "udise": "19160213101",
@@ -3351,7 +3072,6 @@
     "rank": 4,
     "school": "THALIA SIBTOLA PRIMARY SCHOOL",
     "hoi": "No",
-    "phone": "7602007497",
     "id": "teachers394-a4f17403",
     "tname": "JNANSANKAR SINGHA MAHAPATRA",
     "desig": "AT",
@@ -3368,13 +3088,11 @@
     "id": "teachers368",
     "dataYear": 2025,
     "desig": "HT",
-    "phone": "7908060653",
     "rank": 1
   },
   {
     "rank": 2,
     "dataYear": 2025,
-    "phone": "9830679333",
     "hoi": "No",
     "school": "UTTAR GAZIPUR PRIMARY SCHOOL",
     "desig": "AT",
@@ -3390,7 +3108,6 @@
     "rank": 3,
     "school": "UTTAR GAZIPUR PRIMARY SCHOOL",
     "desig": "AT",
-    "phone": "9476124147",
     "hoi": "No",
     "tname": "TANMOY SAHA",
     "gp": "GAZIPUR"
@@ -3404,8 +3121,7 @@
     "tname": "SARAJIT BISWAS",
     "gp": "GAZIPUR",
     "udise": "19160214603",
-    "rank": 4,
-    "phone": "8101506474"
+    "rank": 4
   },
   {
     "dataYear": 2025,
@@ -3416,12 +3132,10 @@
     "udise": "19160214603",
     "gp": "GAZIPUR",
     "school": "UTTAR GAZIPUR PRIMARY SCHOOL",
-    "id": "teachers372",
-    "phone": "9832941107"
+    "id": "teachers372"
   },
   {
     "hoi": "Yes",
-    "phone": "9933156530",
     "desig": "HT",
     "tname": "RINA ADAK",
     "gp": "JOYPUR",
@@ -3437,7 +3151,6 @@
     "school": "UTTAR JOYPUR PRIMARY SCHOOL",
     "udise": "19160212001",
     "desig": "AT",
-    "phone": "9732857361",
     "tname": "MRINMAY ADHIKARY",
     "hoi": "No",
     "id": "teachers374",
@@ -3447,7 +3160,6 @@
     "desig": "AT",
     "hoi": "No",
     "id": "teachers375",
-    "phone": "8972771361",
     "rank": 3,
     "tname": "MADHUMITA DHAL",
     "gp": "JOYPUR",
@@ -3458,7 +3170,6 @@
   {
     "dataYear": 2025,
     "hoi": "Yes",
-    "phone": "9775075349",
     "tname": "SAILEN NEBU",
     "id": "teachers376",
     "udise": "19160214101",
@@ -3470,7 +3181,6 @@
   {
     "gp": "GAZIPUR",
     "desig": "AT",
-    "phone": "9733680302",
     "udise": "19160214101",
     "rank": 2,
     "tname": "BISWAJIT SAU",
@@ -3487,12 +3197,10 @@
     "desig": "AT",
     "rank": 3,
     "school": "UTTAR KALBANSH KISHORI MOHAN PRIMARY SCHOOL",
-    "phone": "8145967804",
     "udise": "19160214101",
     "dataYear": 2025
   },
   {
-    "phone": "7407444927",
     "dataYear": 2025,
     "id": "teachers378",
     "rank": 1,
@@ -3512,15 +3220,13 @@
     "tname": "DIBYENDU KUMAR ADHIKARY",
     "rank": 2,
     "school": "UTTAR KANKROLE PRIMARY SCHOOL",
-    "hoi": "No",
-    "phone": "7797006312"
+    "hoi": "No"
   },
   {
     "udise": "19160209904",
     "school": "UTTAR KANKROLE PRIMARY SCHOOL",
     "rank": 3,
     "id": "teachers380",
-    "phone": "8768149859",
     "dataYear": 2025,
     "tname": "SANJUKTA HAJRA",
     "hoi": "No",
@@ -3531,7 +3237,6 @@
     "id": "teachers381",
     "desig": "HT",
     "dataYear": 2025,
-    "phone": "9933684468",
     "hoi": "Yes",
     "rank": 1,
     "school": "UTTAR SEHAGORI PRIMARY SCHOOL",
@@ -3544,7 +3249,6 @@
     "udise": "19160213201",
     "school": "UTTAR SEHAGORI PRIMARY SCHOOL",
     "desig": "AT",
-    "phone": "7872882343",
     "hoi": "No",
     "id": "teachers382",
     "dataYear": 2025,
@@ -3552,7 +3256,6 @@
     "gp": "THALIA"
   },
   {
-    "phone": "7679230482",
     "gp": "THALIA",
     "tname": "SURASHREE SADHUKHAN SAHA",
     "id": "teachers383",
@@ -3570,7 +3273,6 @@
     "tname": "ABDUS SALAM MOLLICK",
     "rank": 4,
     "desig": "AT",
-    "phone": "9735747630",
     "hoi": "No",
     "gp": "THALIA",
     "school": "UTTAR SEHAGORI PRIMARY SCHOOL"
