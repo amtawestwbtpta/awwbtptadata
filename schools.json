@@ -506,19 +506,20 @@
   {
     "v": 0,
     "udise": "19160202601",
-    "i": 12,
+    "i": 17,
     "school": "JHAMTIA PRIMARY SCHOOL",
-    "student_2025": 84,
+    "student_2025": 80,
     "student": 85,
     "student_2024": 85,
     "student_2023": 94,
     "year": 2025,
-    "ii": 15,
+    "ii": 13,
     "gp": "JHAMTIA",
-    "iii": 18,
+    "iii": 15,
     "pp": 17,
-    "iv": 22,
-    "id": "school130"
+    "iv": 18,
+    "id": "school130",
+    "student_2026": 0
   },
   {
     "v": 0,
