@@ -802,20 +802,21 @@
   },
   {
     "v": 0,
-    "i": 35,
+    "i": 16,
     "student": 123,
     "school": "KHAJURDAHA PRIMARY SCHOOL",
-    "pp": 15,
-    "ii": 21,
-    "iii": 24,
+    "pp": 11,
+    "ii": 34,
+    "iii": 20,
     "id": "school147",
-    "student_2025": 119,
+    "student_2025": 105,
     "iv": 24,
     "student_2023": 109,
     "gp": "JHAMTIA",
     "student_2024": 123,
     "udise": "19160203001",
-    "year": 2025
+    "year": 2025,
+    "student_2026": 0
   },
   {
     "gp": "GAZIPUR",
