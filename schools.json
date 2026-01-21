@@ -177,19 +177,20 @@
   {
     "student_2025": 43,
     "gp": "AMORAGORI",
-    "pp": 9,
+    "pp": 6,
     "student": 43,
     "udise": "19160210507",
     "school": "CHAKJANARDAN PRIMARY SCHOOL",
     "ii": 8,
-    "iii": 12,
-    "iv": 5,
+    "iii": 8,
+    "iv": 12,
     "v": 0,
     "student_2023": 48,
     "student_2024": 43,
-    "year": 2025,
+    "year": 2026,
     "id": "school111",
-    "i": 9
+    "i": 11,
+    "student_2026": 45
   },
   {
     "iv": 17,
