@@ -486,21 +486,22 @@
     "student_2026": 116
   },
   {
-    "v": 19,
-    "year": 2025,
+    "v": 20,
+    "year": 2026,
     "school": "JHAMTIA DHARAPARA PRIMARY SCHOOL",
     "student": 88,
     "udise": "19160202802",
-    "ii": 16,
+    "ii": 10,
     "id": "school129",
-    "pp": 24,
-    "iii": 21,
+    "pp": 20,
+    "iii": 15,
     "student_2023": 113,
-    "i": 10,
+    "i": 24,
     "student_2024": 88,
     "student_2025": 100,
-    "iv": 10,
-    "gp": "JHAMTIA"
+    "iv": 21,
+    "gp": "JHAMTIA",
+    "student_2026": 110
   },
   {
     "v": 0,
