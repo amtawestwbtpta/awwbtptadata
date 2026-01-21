@@ -281,19 +281,20 @@
   {
     "school": "DAKSHIN JOYPUR JR BASIC SCHOOL",
     "student_2023": 37,
-    "i": 1,
-    "ii": 7,
+    "i": 16,
+    "ii": 1,
     "student_2024": 29,
-    "iv": 6,
+    "iv": 5,
     "gp": "JOYPUR",
-    "iii": 6,
+    "iii": 7,
     "id": "school117",
-    "v": 4,
-    "pp": 16,
+    "v": 6,
+    "pp": 3,
     "year": 2025,
     "student": 29,
-    "student_2025": 40,
-    "udise": "19160212601"
+    "student_2025": 38,
+    "udise": "19160212601",
+    "student_2026": 0
   },
   {
     "student_2024": 103,
