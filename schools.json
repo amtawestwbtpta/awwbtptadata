@@ -193,21 +193,22 @@
     "student_2026": 45
   },
   {
-    "iv": 17,
+    "iv": 28,
     "id": "school112",
-    "ii": 19,
-    "iii": 28,
-    "i": 17,
+    "ii": 18,
+    "iii": 18,
+    "i": 23,
     "school": "CHAKSALIKA PRIMARY SCHOOL",
     "student_2023": 108,
     "student_2024": 101,
     "v": 0,
-    "pp": 20,
+    "pp": 10,
     "gp": "AMORAGORI",
-    "year": 2025,
+    "year": 2026,
     "student_2025": 101,
     "udise": "19160209804",
-    "student": 101
+    "student": 101,
+    "student_2026": 97
   },
   {
     "school": "CHAKSALIKA RAJBANSHIPARA PRIMARY SCHOOL",
