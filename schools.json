@@ -104,21 +104,22 @@
     "v": 0
   },
   {
-    "ii": 6,
+    "ii": 13,
     "school": "BHATEGHORI SIBTALA PRIMARY SCHOOL",
     "v": 0,
     "year": 2025,
     "udise": "19160212802",
     "student_2024": 54,
     "gp": "THALIA",
-    "iii": 17,
-    "pp": 5,
+    "iii": 6,
+    "pp": 3,
     "id": "school107",
-    "i": 13,
+    "i": 5,
     "student": 54,
     "student_2023": 54,
-    "iv": 8,
-    "student_2025": 49
+    "iv": 17,
+    "student_2025": 44,
+    "student_2026": 0
   },
   {
     "school": "BINOLA KRISHNABATI PRIMARY SCHOOL",
