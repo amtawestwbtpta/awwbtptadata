@@ -575,21 +575,22 @@
     "iii": 18
   },
   {
-    "year": 2025,
+    "year": 2026,
     "gp": "JHIKIRA",
-    "i": 12,
+    "i": 15,
     "udise": "19160211101",
     "v": 0,
     "student": 70,
     "student_2025": 74,
     "id": "school134",
-    "ii": 14,
+    "ii": 9,
     "student_2023": 78,
     "student_2024": 70,
-    "iii": 16,
-    "pp": 18,
+    "iii": 13,
+    "pp": 5,
     "school": "JHIKIRA MUSLIMPARA PRIMARY SCHOOL",
-    "iv": 14
+    "iv": 16,
+    "student_2026": 58
   },
   {
     "id": "school135",
