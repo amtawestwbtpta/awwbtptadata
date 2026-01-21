@@ -713,21 +713,22 @@
     "student_2023": 105
   },
   {
-    "ii": 17,
+    "ii": 16,
     "school": "KALASHDIHI PRIMARY SCHOOL",
     "gp": "JHAMTIA",
-    "v": 13,
+    "v": 19,
     "udise": "19160202901",
-    "iii": 18,
+    "iii": 19,
     "student_2024": 107,
-    "year": 2025,
+    "year": 2023,
     "student": 107,
     "id": "school142",
-    "i": 15,
-    "student_2023": 115,
-    "iv": 19,
-    "pp": 23,
-    "student_2025": 105
+    "i": 23,
+    "student_2023": 111,
+    "iv": 18,
+    "pp": 16,
+    "student_2025": 105,
+    "student_2026": 0
   },
   {
     "school": "KALBANSH GAZENDRA PRIMARY SCHOOL",
