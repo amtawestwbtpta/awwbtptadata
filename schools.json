@@ -750,19 +750,20 @@
   {
     "student_2025": 94,
     "id": "school144",
-    "v": 4,
-    "ii": 16,
+    "v": 5,
+    "ii": 20,
     "student_2023": 105,
     "school": "KAMARGORIA PRIMARY SCHOOL",
-    "iv": 20,
+    "iv": 15,
     "udise": "19160203401",
     "gp": "JHAMTIA",
     "student": 96,
     "student_2024": 96,
-    "pp": 20,
-    "year": 2025,
-    "iii": 15,
-    "i": 19
+    "pp": 13,
+    "year": 2026,
+    "iii": 16,
+    "i": 21,
+    "student_2026": 90
   },
   {
     "year": 2025,
